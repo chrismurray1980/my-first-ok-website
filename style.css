@@ -5,7 +5,7 @@ body{
 /*Containers*/
 
 .container-wrapper{
-    
+        background-color: #c2c2ca;
 }
 
 .container-wrapper--red{
@@ -221,6 +221,10 @@ position: relative;
 
 .quote .page-header{
     margin-bottom: 25px;
+}
+
+.media{
+    margin-bottom: 15px;
 }
 
 blockquote.quote{
